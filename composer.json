@@ -1,6 +1,6 @@
 {
   "name": "qingbing/yii2-message",
-  "description": "yii实现的url短链系统",
+  "description": "yii2实现的消息管理系统组件",
   "type": "library",
   "license": "MIT",
   "keywords": [
